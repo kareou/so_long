@@ -6,7 +6,7 @@
 /*   By: mkhairou <mkhairou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/11 13:02:54 by mkhairou          #+#    #+#             */
-/*   Updated: 2022/12/28 09:57:50 by mkhairou         ###   ########.fr       */
+/*   Updated: 2022/12/28 10:08:42 by mkhairou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -119,8 +119,6 @@ int					clone(t_vars *vars, char *a);
 int					valid_path(t_vars *vars, int y, int x);
 void				find_player(t_vars *vars);
 void				image_init(t_vars *vars);
-
-//////////////BONUS PART///////////////
 char				*ft_itoa(int n);
 void				put_text(t_vars *vars);
 int					test(t_vars *vars);
