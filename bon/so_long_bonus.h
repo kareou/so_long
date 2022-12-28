@@ -6,7 +6,7 @@
 /*   By: mkhairou <mkhairou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/11 13:02:54 by mkhairou          #+#    #+#             */
-/*   Updated: 2022/12/28 09:33:28 by mkhairou         ###   ########.fr       */
+/*   Updated: 2022/12/28 09:57:50 by mkhairou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define SO_LONG_BONUS_H
 
 # include "../printf/ft_printf.h"
-# include "get_next_line.h"
+# include "../gnl/get_next_line.h"
 # include <fcntl.h>
 # include <math.h>
 # include <mlx.h>

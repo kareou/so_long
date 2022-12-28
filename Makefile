@@ -33,8 +33,8 @@ SRC_B = bon/animation_bonus.c\
 		bon/utils_bonus.c\
 		bon/valid_path_bonus.c\
 		bon/win_check_bonus.c\
-		bon/get_next_line.c\
-		bon/get_next_line_utils.c\
+		gnl/get_next_line.c\
+		gnl/get_next_line_utils.c\
 		bon/creat_list_bonus.c\
 
 PRINTF = printf/
