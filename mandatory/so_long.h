@@ -6,14 +6,14 @@
 /*   By: mkhairou <mkhairou@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/11 13:02:54 by mkhairou          #+#    #+#             */
-/*   Updated: 2022/12/27 11:21:21 by mkhairou         ###   ########.fr       */
+/*   Updated: 2022/12/28 10:15:47 by mkhairou         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef SO_LONG_H
 # define SO_LONG_H
 
-# include "../gnl/get_next_line.h"
+# include "../getline/get_next_line.h"
 # include "../printf/ft_printf.h"
 # include <fcntl.h>
 # include <mlx.h>

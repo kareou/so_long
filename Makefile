@@ -17,8 +17,8 @@ SRC = 	mandatory/file_check.c\
 		mandatory/utils.c\
 		mandatory/valid_path.c\
 		mandatory/win_check.c\
-		gnl/get_next_line.c\
-		gnl/get_next_line_utils.c\
+		getline/get_next_line.c\
+		getline/get_next_line_utils.c\
 
 SRC_B = bon/animation_bonus.c\
 		bon/coin_ani_bonus.c\
@@ -33,8 +33,8 @@ SRC_B = bon/animation_bonus.c\
 		bon/utils_bonus.c\
 		bon/valid_path_bonus.c\
 		bon/win_check_bonus.c\
-		gnl/get_next_line.c\
-		gnl/get_next_line_utils.c\
+		getline/get_next_line.c\
+		getline/get_next_line_utils.c\
 		bon/creat_list_bonus.c\
 
 PRINTF = printf/
